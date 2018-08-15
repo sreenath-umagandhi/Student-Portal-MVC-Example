@@ -40,7 +40,7 @@ namespace StudentRecords.Controllers
                 conn.Close();
                 if (i>=1)
                 {
-                    ViewBag.Message = "New Student has been added";
+                    ViewBag.Message = "New Student has been added!!";
                     
                 }
 
